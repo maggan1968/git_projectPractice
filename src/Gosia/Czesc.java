@@ -6,4 +6,4 @@ public class Czesc {
 //for loop
     }
 }
-//jkk
+//jkkowiw
